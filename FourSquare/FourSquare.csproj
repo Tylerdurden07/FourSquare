@@ -99,7 +99,8 @@
     <Content Include="css\normalize.min.css" />
     <Content Include="4square.ico" />
     <Content Include="img\closebt.svg" />
-    <Content Include="img\DENVA -PNG FORMAT.png" />
+    <Content Include="img\IMG_1993.JPG" />
+    <Content Include="img\logo.png" />
     <Content Include="img\portfolio\thumbnails\appdev.jpg" />
     <Content Include="img\portfolio\thumbnails\computerAided.jpg" />
     <Content Include="img\portfolio\thumbnails\FieldMain.jpg" />
